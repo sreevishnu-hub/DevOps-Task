@@ -47,5 +47,3 @@ sudo bash create_users.sh users.txt
 sudo tail -n 50 /var/log/user_management.log
 # See credentials (root only):
 sudo cat /var/secure/user_passwords.csv
-
-https://gist.github.com/sreevishnu-hub/36c0b90f44cf966df39183238afcd622
