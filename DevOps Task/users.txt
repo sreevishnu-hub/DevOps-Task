@@ -1,0 +1,7 @@
+# sample users list
+light; sudo, dev, www-data
+idimma; sudo
+mayowa; dev,www-data
+# blank line below
+
+newuser; dev
